@@ -1,11 +1,12 @@
 Student Grade System.
-Teacher Form has an admin panel .
 Teachers can delete,save,update any data without any problem.
 I made announcement system too.
 Teachers can make  announcements for everyone.
 Teachers can message to spesific student privately.
 If they wanna reach all the students they can use Announcement System.
 Students can message other students with message system.
+Student can't edit any data.
+Students can reach Announcements .
 
 Entry
 
