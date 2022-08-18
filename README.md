@@ -6,7 +6,7 @@ Teachers can message to spesific student privately.
 If they wanna reach all the students they can use Announcement System.
 Students can message other students with message system.
 Student can't edit any data.
-Students can reach Announcements .
+Students can reach Announcements.
 
 Entry
 
