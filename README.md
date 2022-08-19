@@ -1,4 +1,5 @@
 Student Grade System.
+Both students and teachers login with their number and passwords.
 Teachers can delete,save,update any data without any problem.
 I made announcement system too.
 Teachers can make  announcements for everyone.
