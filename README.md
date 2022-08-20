@@ -2,7 +2,7 @@ Student Grade System.
 ALL INFORMATION ABOUT THE PROJECT STORED IN MSSQL SERVER
 Both students and teachers login with their number and passwords.
 Teachers can delete,save,update any data without any problem.
-I made announcement system too..
+I made announcement system too.
 Teachers can make  announcements for everyone.
 Teachers can message to spesific student privately.
 If they wanna reach all the students they can use Announcement System.
