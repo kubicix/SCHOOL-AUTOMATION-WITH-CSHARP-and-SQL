@@ -2,10 +2,12 @@ Student Grade System.
 ALL INFORMATION ABOUT THE PROJECT STORED IN MSSQL SERVER
 Both students and teachers login with their number and passwords.
 Teachers can delete,save,update any data without any problem.
+Teachers can see all the information about students via Datagridview tables.
 I made announcement system too.
 Teachers can make  announcements for everyone.
 Teachers can message to spesific student privately.
 If they wanna reach all the students they can use Announcement System.
+
 Students can message other students with message system.
 Student can't edit any data.
 Students can reach Announcements.
