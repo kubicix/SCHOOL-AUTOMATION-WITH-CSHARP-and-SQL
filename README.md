@@ -1,4 +1,4 @@
-Student Grade System..
+Student Grade System.
 ALL INFORMATION ABOUT THE PROJECT STORED IN MSSQL SERVER
 Both students and teachers login with their number and passwords.
 Teachers can delete,save,update any data without any problem.
